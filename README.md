@@ -1,0 +1,1 @@
+JavaScript-Calculator is a simple, responsive calculator built with HTML, CSS, and vanilla JavaScript. It supports basic arithmetic (+, −, ×, ÷), decimals, clear/reset, and backspace, with clean DOM-based UI updates and error handling (like division by zero). Great for practicing JS events and logic.
